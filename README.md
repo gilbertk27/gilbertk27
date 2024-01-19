@@ -5,6 +5,10 @@
   </a>
 </div>
 
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=gilbertk27&style=for-the-badge&color=orange" alt="gilbertk27" /> 
+</div>
+
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
